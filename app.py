@@ -328,7 +328,7 @@ Assistant:"""
 # is displayed for reference. Error handling ensures the app runs smoothly.
 
 def main():
-    st.title("AI Interview Assistant")
+    st.title("AI - Based Interview Question Generator")
     
     # Initialize session states
     if "chat_history" not in st.session_state:
