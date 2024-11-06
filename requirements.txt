@@ -1,0 +1,10 @@
+# requirements.txt
+torch
+transformers
+peft
+streamlit
+PyPDF2
+spacy
+scikit-learn
+sentence-transformers
+# Run: python -m spacy download en_core_web_sm
