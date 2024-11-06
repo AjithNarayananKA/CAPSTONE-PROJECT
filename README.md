@@ -38,7 +38,7 @@ Step 4: Download SpaCy Model
     
 Step 5: Fine-Tune the Flan T5 Model
 
-* Open FlanT5.ipynb in Google Colab.
+* Open Flan_T5_fine_tuning.ipynb in Google Colab.
 * Follow the notebook instructions to fine-tune the model.
 * Save the fine-tuned model in a folder named models.
   
